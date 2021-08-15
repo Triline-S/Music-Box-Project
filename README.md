@@ -1,2 +1,2 @@
 # Music-Box-Project
-This repository will be a way to store and share assets, music and other stuff for our little RPG Maker project
+A girl named Ali finds herself in a seemingly familiar place, only to find out that she's in a weird dream. What will she do now?
