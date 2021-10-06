@@ -9,8 +9,9 @@ ___
 > 	- School
 >	- Snow Plains
 >	- Clock tower
-> - At least two charecters (and maybe a cat) to meet.
+> - At least two characters (and maybe a cat) to meet.
 > - A lot of terrible jokes chosen by yours truly.
+> - Maybe a few reference to popculture. Just a few.
 
 ___
 
