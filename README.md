@@ -11,8 +11,11 @@ ___
 >	- Clock tower
 > - At least two characters (and maybe a cat) to meet.
 > - A lot of terrible jokes chosen by yours truly.
-> - Maybe a few reference to popculture. Just a few.
+> - Maybe a few references to popculture. Just a few.
 
 ___
+
+The game is made in Wolf RPG Editor. 
+No release date. At least not in the forseeable future. 
 
 Don't contact me, I'm too lazy to answer anyway.
