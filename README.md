@@ -15,4 +15,7 @@ ___
 
 ___
 
+The game is made in Wolf RPG Editor. 
+No release date. At least not in the forseeable future. 
+
 Don't contact me, I'm too lazy to answer anyway.
