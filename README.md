@@ -11,7 +11,7 @@ ___
 >	- Clock tower
 > - At least two characters (and maybe a cat) to meet.
 > - A lot of terrible jokes chosen by yours truly.
-> - Maybe a few reference to popculture. Just a few.
+> - Maybe a few references to popculture. Just a few.
 
 ___
 
